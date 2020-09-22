@@ -1,5 +1,5 @@
 doi-sub
 hiroki-master
 git-master
-training
+training-master
 lesson-sub
