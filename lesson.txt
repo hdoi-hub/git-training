@@ -1,4 +1,5 @@
 doi
-hiroki
+hiroki-master
 git
+training
 lesson
